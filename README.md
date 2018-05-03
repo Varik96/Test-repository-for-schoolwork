@@ -52,5 +52,7 @@ Siten ajoin skriptin, joka teki tila määrityksien mukaan muutokset. Testi oli 
 Lähteet:
 
 [https://github.com/terokarvinen/sirotin](https://github.com/terokarvinen/sirotin)
+
 [http://terokarvinen.com/2018/aikataulu-%e2%80%93-palvelinten-hallinta-ict4tn022-4-ti-5-ke-5-loppukevat-2018-5p](http://terokarvinen.com/2018/aikataulu-%e2%80%93-palvelinten-hallinta-ict4tn022-4-ti-5-ke-5-loppukevat-2018-5p)
+
 [http://terokarvinen.com/2016/publish-your-project-with-github](http://terokarvinen.com/2016/publish-your-project-with-github)
