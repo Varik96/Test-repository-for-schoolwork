@@ -12,7 +12,7 @@ Päätin siirtää vanhat salt-tilani GitHub:in. Vanhat tilat ja tehtävät löy
 Sitten tiputin koneeni /srv/ kansion tänne. Jätin sinne osan tiloista testattavaksi. Top.sls:in avulla saan highstate komennolla kaikki tilat suoraan asennettua. Tein highstate.sh tiedoston skriptille, joka tekee highstate komennon paikallisesti. Otin mallia tähän Tero Karvisen sirotin git-varastosta.
 
 
-####highstate.sh
+#### highstate.sh
 
     sudo sudo salt-call --local --file-root srv/salt/ state.highstate
 
