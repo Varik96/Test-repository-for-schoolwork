@@ -47,7 +47,7 @@ Käytin komentoa:
     $ sudo bash highstate.sh
 
 
-Siten ajoin skriptin, joka teki tila määrityksien mukaan muutokset. Testi oli onnistunut, eli Succeeded: 13 (changed=13) ja Failed: 0.
+Siten ajoin skriptin, joka teki määrityksien mukaan muutokset. Testi oli onnistunut, eli Succeeded: 13 (changed=13) ja Failed: 0.
 
 
 Lähteet:
